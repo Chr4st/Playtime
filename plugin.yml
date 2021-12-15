@@ -2,7 +2,7 @@ name: PlayTime
 api: 3.0.0
 author: Dready
 version: 1.0.0
-main: TPE\PlayTime\Main
+main: Dready\PlayTime\Main
 
 commands:
   playtime:
